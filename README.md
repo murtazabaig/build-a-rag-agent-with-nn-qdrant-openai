@@ -1,3 +1,7 @@
+![n8n](https://img.shields.io/badge/n8n-workflow-0EA5E9)
+![license](https://img.shields.io/badge/license-MIT-green)
+![status](https://img.shields.io/badge/status-ready-brightgreen)
+
 # Build a RAG Agent with n8n, Qdrant & OpenAI
 
 Advanced n8n automation for Build a RAG Agent with n8n, Qdrant & OpenAI.
